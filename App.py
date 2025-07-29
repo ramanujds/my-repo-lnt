@@ -1,4 +1,1 @@
-print "hello world"
-import sys
-import os
-import time
+print "Let's start the app"
