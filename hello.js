@@ -15,3 +15,17 @@ function main() {
     greet("Alice");
     farewell("Bob");
 }
+
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+
+function farewell(name) {
+    console.log(`Goodbye, ${name}!`);
+}
+
+function main() {
+    play();
+    greet("Alice");
+    farewell("Bob");
+}
